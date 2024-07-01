@@ -6,7 +6,8 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 # Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
 - This project use Power Automate in Cloud flow to automatically connect the event of purchase order workflow from Dynamic 365 Finance & Operations. The process of Purchase Order will automatically send an email of each selected users in Purchased Order Workflow (Dynamic 365) who will approved it (one of selected users). Then it will automatically send an email notification and execute an action in Dynamic 365 from Microsoft Platform so the users can submit the approval purchase order in multiple device such as mobile and email (not only in Dynamic 365 Finance & Operations).  
 - Tools : Microsoft Power Automate (Cloud)
-- Output :  
+- Output : [Power Automate Approval PO Project](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi-RPA/assets/57402512/325f3285-929d-41c1-8255-fb508fed2256)
+
 
 # UiPath Studio - Laptop Recommendation System with Recurrent Neural Network
 
