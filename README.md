@@ -9,12 +9,13 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - Output : [Power Automate Approval PO Project](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi-RPA/assets/57402512/325f3285-929d-41c1-8255-fb508fed2256)
 
 
-# UiPath Studio - Laptop Recommendation System with Recurrent Neural Network
+# UiPath Studio - Virtual Assistant of Laptop Recommendation System with the help of Robotic Process Automation (RPA)
 
 - This project use Python with the open-source Tensorflow Library that consists using Recurrent Neural Network and Text Processing. This app has also use UiPath Studio for Scraping the laptop data (Bhinneka) and QA Dialogue data (Quora) from different website. This app has been tested by 30 Participants with each review of the Recommendation laptop chatbot and has already been accepted by ICITDA organization. This app has been created by myself and with my co-author Mrs Viny Christanti Mawardi. This Project use a combination of Robotic Process Automation and Machine Learning technique. 
 - Tools : Python, Tensorflow, UiPath Studio, Flask, SQLite, Web Development (HTML,CSS,Javascript)
 - Output (Website) : [Virtual Assistant Kiryubot](http://valaptop.labirariset.com).
-- Output (Format)  : 
+- Output (Format)  : ![Result of User of Chatbot](https://github.com/user-attachments/assets/dec511be-e7f7-4789-ad79-8557e4efa38d)
+
 
 # UiPath Studio - Certification Validation Automation of Lintar (Graduation of Student)
 
